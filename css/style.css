@@ -1,0 +1,50 @@
+
+body{
+    font: 20px Arial, sans-serif ;
+}
+
+
+.navbar{
+background-color:#a2a0a79c ;
+
+}
+
+
+.quem-somos{
+    background-color:#6F6E73;
+    color: #0a0101;
+
+}
+
+.assessores{
+    background-color:#EBE9F2;
+    color: #0a0101;
+
+}
+
+.parceiros{
+    background-color:#6F6E73;
+    color: #0a0101;
+
+}
+.padding{
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+
+.contato{
+    background-color:#1D1533;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align:0;
+
+}
+
+.contato div{
+    background-color:#1D1533;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align:right;
+
+}
